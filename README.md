@@ -5,7 +5,7 @@ Hôm nay là một ngày vô cùng đặc biệt - ngày 20/10, ngày Phụ nữ
 
 
 ### Tham khảo từ:
-![Trời đêm](https://github.com/poonam-adlakha/Night-Sky-with-Stars)
-![Hoa nở](https://github.com/JessicaaSun/flower-blooming)
+[Trời đêm](https://github.com/poonam-adlakha/Night-Sky-with-Stars)
+[Hoa nở](https://github.com/JessicaaSun/flower-blooming)
 
 Đây chỉ là mẫu, mã nguồn dùng tự do!
